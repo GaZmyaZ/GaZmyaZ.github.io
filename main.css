@@ -1,0 +1,181 @@
+.div{
+background-color: #f9ff87;
+border:10px solid #000000;
+width: 900px;
+display: block;
+margin: auto;
+padding: 15px;
+}
+
+.h1{
+text-align: center;
+color: black;	
+}
+
+.h2{
+text-align: center;	
+}
+
+
+
+.img{
+width: 150px;
+height: 150px;
+border-radius: 15px;
+margin: 10px;
+}
+
+
+
+.icons{
+display: flex;
+flex-wrap:wrap;
+justify-content: center;	
+}
+
+body{
+background: linear-gradient(yellow 10%,grey);	
+}
+
+.textarea{
+border:10px ridge #76fc6a;
+border-radius: 10px; 
+
+}
+
+.btn{
+border: 15px outset #abfff1;
+border-radius: 10px;    
+}
+
+
+.change-div{
+border: 10px groove #9ed909;    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
